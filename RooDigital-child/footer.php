@@ -76,7 +76,7 @@ $container = get_theme_mod( 'understrap_container_type' );
             </div>
             <div class="row mt-r mb-5">
                 <div class="col text-center">
-                    <p><span class="text-white-50">Copyright &copy; <?php echo date("Y"); ?> Roo Digital<br>ABN - 40 343 075 283</span></p>
+                    <p><span class="text-white-50 testy">Copyright &copy; <?php echo date("Y"); ?> Roo Digital<br>ABN - 40 343 075 283</span></p>
                 </div>
             </div>
         </div>
